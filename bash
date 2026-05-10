@@ -1,1 +1,1 @@
-cd ai-image-generator
+npm install openai
